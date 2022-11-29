@@ -16,7 +16,7 @@ public class Ejercicio5 {
 		int i = 320;
 		
 		//Definimos el bucle while.
-		while (i > 140) {
+		while (i >= 160) {
 			System.out.println(i);
 			i = i - 20;
 		}
