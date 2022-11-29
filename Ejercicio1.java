@@ -13,6 +13,7 @@ import java.util.Scanner;
 public class Ejercicio1 {
 	public static void main(String[] args) {
 		
+		//Definimos el bucle for y comprobamos los multiplos.
 		for (int i = 5; i <= 100; i++) {
 			
 			int mult5 = i % 5;
