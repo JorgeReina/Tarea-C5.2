@@ -2,9 +2,7 @@ import java.util.Scanner;
 
 /**
 *
-*	Ejercicio 1,  Calcula la nota de un trimestre de la asignatura Programación.
-* El programa pedirá las dos notas que ha sacado el alumno
-* en los dos primeros controles.
+*	Ejercicio 1,  Muestra los números múltiplos de 5 de 0 a 100 utilizando un bucle for.
 * 
 *	Nombre del archivo: Ejercicio1.java
 *
